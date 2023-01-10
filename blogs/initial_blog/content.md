@@ -14,4 +14,4 @@ Yet another update!
 
 Audrey is soooooo __cute__
 
-![The San Juan Mountains are beautiful!](./dragon-back.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
