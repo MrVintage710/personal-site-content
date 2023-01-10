@@ -2,5 +2,6 @@
   "tags": ["Test", "Blog", "Post"],
   "desc": "This is a test Blog that has only the most basic content.",
   "title" : "Test Blog",
-  "pic" : "dragon-back.jpg"
+  "pic" : "dragon-back.jpg",
+  "path" : "initial_blog"
 }
