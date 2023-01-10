@@ -11,5 +11,3 @@ pub fn test() {
 Here is an update.
 
 Yet another update!
-
-![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
