@@ -1,5 +1,6 @@
 {
   "tags": ["Test", "Blog", "Post"],
   "desc": "This is a test Blog that has only the most basic content.",
-  "title" : "Test Blog"
+  "title" : "Test Blog",
+  "pic" : ""
 }
