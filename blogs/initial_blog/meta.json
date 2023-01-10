@@ -1,7 +1,7 @@
 {
-  "tags": ["Test", "Blog", "Post"],
-  "desc": "This is a test Blog that has only the most basic content.",
-  "title" : "Test Blog",
+  "tags": ["First", "Blog", "Post", "Dev", "Svelte", "Rust"],
+  "desc": "When I sat down to make my own website, I knew that I wanted to make a blog for it. I knew that I wanted to learn a new framework (AKA Svelte) and I knew that I wanted to write the backend in rust. Here I the first blog post of my blogging system, about my blog. Meta.",
+  "title" : "Making a Blog with Svelte, Writing its Backend in Rust",
   "pic" : "dragon-back.jpg",
   "path" : "blogs/initial_blog",
   "author" : "Brooks Palin"

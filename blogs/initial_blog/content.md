@@ -1,4 +1,4 @@
-**This is a Test Blog**
+
 
 This file is strictly for testing the blog side of this site.
 
@@ -7,6 +7,8 @@ pub fn test() {
   println!("This is a test!")
 }
 ```
+
+> This is a test quote
 
 Here is an update.
 
