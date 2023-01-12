@@ -4,5 +4,6 @@
   "title" : "Making a Blog with Svelte, Writing its Backend in Rust",
   "pic" : "dragon-back.jpg",
   "path" : "blogs/initial_blog",
-  "author" : "Brooks Palin"
+  "author" : "Brooks Palin",
+  "show_title": true
 }
