@@ -12,6 +12,10 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ## Header2
 
+## Header2
+
+# Header1
+
 ### Header3
 
 #### Heading4
