@@ -10,7 +10,15 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 # The Setup
 
+## Header2
 
+### Header3
+
+#### Heading4
+
+##### Heading5
+
+###### Heading6
 
 ```rust
 pub fn test() {
