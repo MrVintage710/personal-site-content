@@ -24,7 +24,7 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ###### Heading6
 
-![video](/)
+![video](https://www.youtube.com/watch?v=tzgy93dvHqE)
 
 ![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
 
