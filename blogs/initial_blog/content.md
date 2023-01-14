@@ -26,7 +26,7 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ![video](/)
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
 
 ```rust
 pub fn test() {
