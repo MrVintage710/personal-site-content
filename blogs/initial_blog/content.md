@@ -26,6 +26,8 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ![video](/)
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 ```rust
 pub fn test() {
   println!("This is a test!")
