@@ -10,7 +10,7 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 # The Setup
 
-
+![video](/)
 
 ```rust
 pub fn test() {
