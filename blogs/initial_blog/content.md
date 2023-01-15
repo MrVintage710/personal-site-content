@@ -28,6 +28,8 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ![mtg](/ "Wrath of God")
 
+![card](./soul_carne_card.png)
+
 ![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
 
 ```rust
