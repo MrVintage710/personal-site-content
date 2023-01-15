@@ -26,6 +26,8 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ![video](https://www.youtube.com/watch?v=tzgy93dvHqE)
 
+![mtg](Wrath of God)
+
 ![The San Juan Mountains are beautiful!](dragon-back.jpg "San Juan Mountains")
 
 ```rust
