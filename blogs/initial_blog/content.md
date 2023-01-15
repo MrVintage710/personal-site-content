@@ -24,7 +24,7 @@ Though this introduction has been fun, you didn't click on this post to read abo
 
 ###### Heading6
 
-![mtg](/ "Wrath of God|Painful Quandary|Fatal Push|Radiant Grace|Overburden")
+![mtg](/ "Wrath of God|Painful Quandary|Fatal Push|Radiant Grace|Overburden|Counterflux|Fire Sprites")
 
 ![card](soul_carne_card.png)
 
