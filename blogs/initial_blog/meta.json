@@ -5,5 +5,5 @@
   "pic" : "dragon-back.jpg",
   "path" : "blogs/initial_blog",
   "author" : "Brooks Palin",
-  "show_title": true
+  "show_title": false
 }
